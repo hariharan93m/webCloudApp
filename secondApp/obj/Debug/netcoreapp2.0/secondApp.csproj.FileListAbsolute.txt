@@ -9,3 +9,14 @@
 /Users/hariharan/Projects/secondApp/secondApp/obj/Debug/netcoreapp2.0/secondApp.AssemblyInfo.cs
 /Users/hariharan/Projects/secondApp/secondApp/obj/Debug/netcoreapp2.0/secondApp.dll
 /Users/hariharan/Projects/secondApp/secondApp/obj/Debug/netcoreapp2.0/secondApp.pdb
+/Users/hariharan/Projects/webCloud/secondApp/bin/Debug/netcoreapp2.0/secondApp.deps.json
+/Users/hariharan/Projects/webCloud/secondApp/bin/Debug/netcoreapp2.0/secondApp.runtimeconfig.json
+/Users/hariharan/Projects/webCloud/secondApp/bin/Debug/netcoreapp2.0/secondApp.runtimeconfig.dev.json
+/Users/hariharan/Projects/webCloud/secondApp/bin/Debug/netcoreapp2.0/secondApp.dll
+/Users/hariharan/Projects/webCloud/secondApp/bin/Debug/netcoreapp2.0/secondApp.pdb
+/Users/hariharan/Projects/webCloud/secondApp/obj/Debug/netcoreapp2.0/secondApp.csprojResolveAssemblyReference.cache
+/Users/hariharan/Projects/webCloud/secondApp/obj/Debug/netcoreapp2.0/secondApp.csproj.CoreCompileInputs.cache
+/Users/hariharan/Projects/webCloud/secondApp/obj/Debug/netcoreapp2.0/secondApp.AssemblyInfoInputs.cache
+/Users/hariharan/Projects/webCloud/secondApp/obj/Debug/netcoreapp2.0/secondApp.AssemblyInfo.cs
+/Users/hariharan/Projects/webCloud/secondApp/obj/Debug/netcoreapp2.0/secondApp.dll
+/Users/hariharan/Projects/webCloud/secondApp/obj/Debug/netcoreapp2.0/secondApp.pdb

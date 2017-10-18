@@ -8765,11 +8765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hariharan/Projects/secondApp/secondApp/secondApp.csproj",
+      "projectUniqueName": "/Users/hariharan/Projects/webCloud/secondApp/secondApp.csproj",
       "projectName": "secondApp",
-      "projectPath": "/Users/hariharan/Projects/secondApp/secondApp/secondApp.csproj",
+      "projectPath": "/Users/hariharan/Projects/webCloud/secondApp/secondApp.csproj",
       "packagesPath": "/Users/hariharan/.nuget/packages/",
-      "outputPath": "/Users/hariharan/Projects/secondApp/secondApp/obj/",
+      "outputPath": "/Users/hariharan/Projects/webCloud/secondApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
